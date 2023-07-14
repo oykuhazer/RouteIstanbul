@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7F935FBB-9FE1-41E9-8A7C-05AFC4EBBAFD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D7B53A4-46EC-4600-964F-6759EFBD5140"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Route Istanbul/IconCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "IconCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5D7B53A4-46EC-4600-964F-6759EFBD5140 - 62a87c594f919cc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Route_Istanbul.IconCollectionViewCell.IconImage.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Route Istanbul"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oykuhazerekinci/Desktop/Route%20Istanbul/Route%20Istanbul/IconCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "5D7B53A4-46EC-4600-964F-6759EFBD5140 - 480fd2b0fad7c138"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Route_Istanbul.IconCollectionViewCell.IconImage.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Route Istanbul"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oykuhazerekinci/Desktop/Route%20Istanbul/Route%20Istanbul/IconCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "5D7B53A4-46EC-4600-964F-6759EFBD5140 - 16a774e1c5e53bcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Route_Istanbul.IconCollectionViewCell.IconImage.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Route Istanbul"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oykuhazerekinci/Desktop/Route%20Istanbul/Route%20Istanbul/IconCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5D7B53A4-46EC-4600-964F-6759EFBD5140 - 9d49fd9c83268099"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Route_Istanbul.IconCollectionViewCell.IconImage.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Route Istanbul"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oykuhazerekinci/Desktop/Route%20Istanbul/Route%20Istanbul/IconCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "5D7B53A4-46EC-4600-964F-6759EFBD5140 - 8e38eca7bda86b62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Route_Istanbul.IconCollectionViewCell.init(frame: __C.CGRect) -&gt; Route_Istanbul.IconCollectionViewCell"
+                  moduleName = "Route Istanbul"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oykuhazerekinci/Desktop/Route%20Istanbul/Route%20Istanbul/IconCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "5D7B53A4-46EC-4600-964F-6759EFBD5140 - ab966eac1e118def"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Route_Istanbul.IconCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Route_Istanbul.IconCollectionViewCell&gt;"
+                  moduleName = "Route Istanbul"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oykuhazerekinci/Desktop/Route%20Istanbul/Route%20Istanbul/IconCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
